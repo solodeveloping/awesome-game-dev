@@ -18,6 +18,33 @@ Tools and resources about game dev
 
 * https://search.creativecommons.org/ : search on many websites for open-source assets
 
+## Godot shaders
+
+* https://godotshaders.com
+
+## Godot Skybox
+
+* https://github.com/rpgwhitelock/AllSkyFree_Godot
+* https://godotshaders.com/shader-tag/skybox/
+* https://godotshaders.com/shader/skybox-from-6-textures/
+* https://itch.io/game-assets/tag-godot/tag-skybox
+* https://github.com/BastiaanOlij/godot_camera_360
+* https://github.com/BastiaanOlij/skybox_to_panorama
+* https://github.com/TokisanGames/Sky3D
+* https://github.com/gdquest-demos/godot-4-stylized-sky
+* https://github.com/MahamayaGames-5/Mahamaya-Sky-Shader
+
+## Skybox assets
+
+* https://polyhaven.com/hdris
+* https://itch.io/game-assets/free/tag-skybox
+* https://ambientcg.com/list?type=hdri&sort=popular
+* https://opengameart.org/art-search-advanced?keys=skybox&title=&field_art_tags_tid_op=or&field_art_tags_tid=&name=&field_art_type_tid%5B%5D=9&field_art_type_tid%5B%5D=10&field_art_type_tid%5B%5D=14&sort_by=count&sort_order=DESC&items_per_page=24&Collection=
+
+## Skybox tools
+
+* https://github.com/FrozenStormInteractive/Spacescape (use with https://danilw.github.io/GLSL-howto/cubemap_to_panorama_js/cubemap_to_panorama.html, YT video for Godot https://www.youtube.com/watch?v=NtVABru6OXE)
+
 ## Stock photos
 
 * https://unsplash.com/
