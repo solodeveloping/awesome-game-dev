@@ -22,6 +22,13 @@ Tools and resources about game dev
 
 * https://godotshaders.com
 
+## Texture processing
+
+* https://wareya.github.io/webtyler/: autotile conversion tool
+* https://github.com/wareya/webtyler/
+* found in this video [Draw fewer tiles - by using a Dual-Grid system!](https://www.youtube.com/watch?v=jEWFSv3ivTg)
+* not sure if there was more explanations about it
+
 ## Godot Skybox
 
 * https://github.com/rpgwhitelock/AllSkyFree_Godot
