@@ -18,6 +18,14 @@ Tools and resources about game dev
 
 * https://search.creativecommons.org/ : search on many websites for open-source assets
 
+## Trim sheets
+
+Trim sheets are a way of creating modular assets by reusing the same texture at different places, like an atlas texture.
+
+* https://trimsheets.com/
+* And you can just look it up like usual:
+* https://sketchfab.com/search?features=downloadable&licenses=322a749bcfa841b29dff1e8a1bb74b0b&licenses=b9ddc40b93e34cdca1fc152f39b9f375&licenses=7c23a1ba438d4306920229c12afcb5f9&q=trim+sheet&type=models
+
 ## Godot shaders
 
 * https://godotshaders.com
