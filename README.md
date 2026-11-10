@@ -9,6 +9,7 @@ Tools and resources about game dev
 ## 3D modeling
 
 * https://www.blender.org/ (open-source)
+* https://github.com/storytold/texturecraft (untested)
 
 ## Blender resources
 
@@ -17,6 +18,7 @@ Tools and resources about game dev
 ## Assets
 
 * https://search.creativecommons.org/ : search on many websites for open-source assets
+* https://www.sharetextures.com/
 
 ## Trim sheets
 
