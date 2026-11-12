@@ -70,3 +70,16 @@ Trim sheets are a way of creating modular assets by reusing the same texture at 
 
 * https://bowrd.eu/ (https://codeberg.org/bowrd/bowrd) (untested)
 * https://github.com/Ruin0x11/DroidRef (untested)
+
+## Tools
+
+* https://reshade.me/
+* https://github.com/crosire/reshade
+* Allows to see the geometry and other things inside a game
+
+## Blogs
+
+* https://www.adriancourreges.com/blog/
+* AAA analysis
+* https://simonschreibt.de/game-art-tricks/
+* AAA analysis
