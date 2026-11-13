@@ -32,6 +32,11 @@ Trim sheets are a way of creating modular assets by reusing the same texture at 
 
 * https://godotshaders.com
 
+## Godot tutorials
+
+* https://catlikecoding.com/godot/procedural-gpu-patterns/
+* https://github.com/jasper-flick/godot-procedural-gpu-patterns?tab=readme-ov-file
+
 ## Texture processing
 
 * https://wareya.github.io/webtyler/: autotile conversion tool
